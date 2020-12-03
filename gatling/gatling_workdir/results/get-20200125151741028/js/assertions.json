@@ -1,0 +1,10 @@
+{
+  "simulation": "smartpass.Get",
+  "simulationId": "get",
+  "start": 1579965461028,
+  "description": "",
+  "scenarios": ["pass"],
+  "assertions": [
+
+  ]
+}
