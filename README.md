@@ -1,7 +1,7 @@
 ## 技術検証用リポジトリ
-- sandbox
+- python_sandbox
   - python検証ローカル環境一式
     - jypterlab
 
-- sandbox_node
+- node_sandbox
   - Nodejs検証様ローカル環境一式
